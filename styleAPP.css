@@ -1,0 +1,58 @@
+/* 
+CSS file for index.html
+CS65 Frankenstein
+*/
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* Changing the font size for all elements */
+hr {
+    height: 10px;
+    color: #;
+    background-color: #fc3f1b;
+    border: none;
+}
+h1{
+    font-size: 250%;
+}
+
+h2{
+    font-size: 200%;
+}
+
+p{
+    font-size: 150%;
+}
+
+#container{
+}
+
+#slides{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+#header{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+#content{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#nav{
+    background-color: #DADFE1;
+    text-align: center;
+    margin-left; auto;
+    margin-right; auto;
+}
+
+#footer{
+    text-align: center;
+}
